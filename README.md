@@ -12,7 +12,7 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"><img alt="haxxan21 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"></a>
  </p>
  
- <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=haxxan21&color=green" alt="haxxan21" /> </h2>
+ <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=haxxan21&color=green" alt="haxxan" /> </h2>
  
  <p align="center">
   <a href="https://www.linkedin.com/in/tayyeb-hassan-45b17a110/">
@@ -21,8 +21,8 @@
   <a href="mailto:malikhassan053@gmail.com">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
-  <a href="https://stackoverflow.com/users/9658195/hassan-malik">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
+  <a href="https://stackoverflow.com/users/16357254/ali-bhai">
+    <img align="center" src="https://stackoverflow.com/users/16357254/ali-bhai" alt="stackoverflow" />
   </a>
 </p>
 
@@ -42,12 +42,6 @@
     <td align="center">
       <img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1" height="60">
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/50/000000/django.png" height="60">
-    </td> 
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="60">
-    </td>  
   </tr>
 </table>
 
@@ -99,10 +93,7 @@
     </td> 
     <td align="center">
       <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="tailwind css" />
-    </td>  
-    <td align="center">
-      <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-    </td>
+    </td> 
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
     </td>
@@ -113,7 +104,6 @@
 
 <p>
   <span><img src="https://img.icons8.com/ios/50/000000/php-logo.png" width="40" height="40"></span>
-  <span><img src="https://img.icons8.com/dusk/64/000000/python.png" width="40" height="40" alt="python"></span>
   <span><img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="40" height="40" alt="javascript"></span>
   <span><img src="https://img.icons8.com/color/48/000000/json.png" width="40" height="40" alt="json"></span>
   <span><img src="https://img.icons8.com/dusk/64/000000/postman-api.png"  width="40" height="40" alt="postman"></span>
@@ -128,8 +118,8 @@
 <h2>Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=haxxan21&theme=dracula" alt="haxxan21" />
+  <img src="https://github.com/Haxxan-raza" alt="haxxan" />
 </p>
 <!--
-**haxxan21/haxxan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
+**haxxan/haxxan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 -->
